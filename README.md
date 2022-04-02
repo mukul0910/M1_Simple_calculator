@@ -3,6 +3,7 @@
  This simple calculator gives some features to user to calculate basic and some advance operations. These are as follows: addition,subtraction, factorial, modulus, log, square root etc.
 
  ## Badges
+ [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5e48f659718341ceb799ef1461d5243c)](https://www.codacy.com/gh/mukul0910/M1_Simple_calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mukul0910/M1_Simple_calculator&amp;utm_campaign=Badge_Grade)
 
  ## Folder structure
 Folder                   | Description
